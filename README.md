@@ -1,4 +1,4 @@
-# sql-projects
+# sql project - Employees database
 
 -- **Using Joins** --
 -- **Assignment** -> Join the 'employees' and the 'dept_manager' tables to return a subset of all the employees whose last name is Markovitch --
